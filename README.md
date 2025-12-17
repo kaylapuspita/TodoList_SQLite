@@ -73,6 +73,5 @@ RN-EXPO-SQLITE-MAIN/
 ├── .gitignore              # Mengabaikan file yang tidak perlu di-upload
 ├── app.json                # Konfigurasi aplikasi Expo
 └── package.json            # Daftar dependencies & script
-```
-```
+
 
